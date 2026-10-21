@@ -1,0 +1,8 @@
+.idea/
+out/
+out-sga/
+*.class
+*.log
+extracted_proyecto.txt
+.DS_Store
+Thumbs.db
